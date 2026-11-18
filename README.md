@@ -13,4 +13,3 @@ Proteger e simplificar a informação do amanhã, transformando dados complexos 
 - **Andre dos Santos** — Chief Executive Officer (CEO) / Gestor Comercial & Estratégia
 - **Antonny Starr** — Responsável de Suporte Técnico & Sucesso do Cliente(Customer Success & IT Support)
 - **Karl Urban** — Chief Technology Officer (CTO) / Engenheiro de Criptografia & Software
-
